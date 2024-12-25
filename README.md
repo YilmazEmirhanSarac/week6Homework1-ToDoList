@@ -1,1 +1,1 @@
-# week6Homework1-ToDoList
+- Patika+ week-6 homework 1 To do list
